@@ -1,0 +1,5 @@
+print("Enter any string (or Enter your Name): ", end="")
+x = input()
+print("The Uppercase of the string is : ", x.upper())
+print("The Lowercase of the string is : ", x.lower())
+print("The Titlecase of the string is : ", x.title())
